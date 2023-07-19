@@ -23,7 +23,11 @@ python -m ipykernel install --user --name=tfodj
 </pre>
 <br/>
 <b>Step 5.</b> Collect images using the Notebook 1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
-<br/>
+<br/>![Screenshot 2023-07-19 152513](https://github.com/radeon2525/ImageDetectTF/assets/122255661/ccc6363d-39d1-4015-a004-f5d13d77fdec)![Screenshot 2](https://github.com/radeon2525/ImageDetectTF/assets/122255661/ba167796-3460-42ec-8f0a-c1d98cbe9ffc)![Screenshot 3](https://github.com/radeon2525/ImageDetectTF/assets/122255661/526301de-a872-49bf-ada6-ebb89d720c24)
+![Screenshot 4](https://github.com/radeon2525/ImageDetectTF/assets/122255661/09321900-9fbd-445c-b6a2-a7a6f8834596)
+
+
+
 <b>Step 6.</b> Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the following two folders. <br/>
 \TFODCourse\Tensorflow\workspace\images\train<br />
 \TFODCourse\Tensorflow\workspace\images\test
