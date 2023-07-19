@@ -24,6 +24,9 @@ python -m ipykernel install --user --name=tfodj
 <br/>
 <b>Step 5.</b> Collect images using the Notebook 1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
 <br/>
+![Screenshot 1](https://github.com/radeon2525/ImageDetectTF/assets/122255661/3c816160-70c1-436e-9a77-9a595bdfd572)
+![Screenshot 2](https://github.com/radeon2525/ImageDetectTF/assets/122255661/804d2af9-eea1-4988-81dd-092c3171822b)
+
 [Screenshot 3](https://github.com/radeon2525/ImageDetectTF/assets/122255661/526301de-a872-49bf-ada6-ebb89d720c24)
 ![Screenshot 4](https://github.com/radeon2525/ImageDetectTF/assets/122255661/09321900-9fbd-445c-b6a2-a7a6f8834596)
 
